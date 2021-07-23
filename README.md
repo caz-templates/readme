@@ -52,7 +52,7 @@ The `templates.code-workspace` contents
   ],
   "settings": {
     "files.associations": {
-      "**/template/**/*.*": "html"
+      "**/template/**": "html"
     }
   },
   "extensions": {
