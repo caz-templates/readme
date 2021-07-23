@@ -7,10 +7,20 @@ CAZ official templates
 Clone all template repositories
 
 ```shell
+# create a workspace dir
+$ mkdir caz-templates && cd $_
+
 # clone all templates
+$ git clone https://github.com/caz-templates/minima.git minima
+$ git clone https://github.com/caz-templates/template.git starter
+$ git clone https://github.com/caz-templates/nm.git nm
+$ git clone https://github.com/caz-templates/vercel.git vercel
+$ git clone https://github.com/caz-templates/vue.git vue
+$ git clone https://github.com/caz-templates/vite.git vite
+$ git clone https://github.com/caz-templates/x-pages.git x-pages
 
 # touch a vscode workspace config file
-vi templates.code-workspace
+$ vi templates.code-workspace
 ```
 
 The `templates.code-workspace` contents
