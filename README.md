@@ -1,6 +1,6 @@
 # caz-templates
 
-CAZ official templates
+[CAZ](https://github.com/zce/caz) official templates
 
 ## Getting Started
 
